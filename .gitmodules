@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = git@github.com:hvnganh/chatapp-client.git
 [submodule "server"]
 	path = server
-	url = ./server
+	url = git@github.com:hvnganh/chatapp-server.git
